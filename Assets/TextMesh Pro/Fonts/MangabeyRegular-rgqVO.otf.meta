@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: af168496733e8784bb8b51442b80c713
+guid: a6924c311ee14e64b883ba0cbfaaaea4
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Classroom Personal Use
+  - Mangabey
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
